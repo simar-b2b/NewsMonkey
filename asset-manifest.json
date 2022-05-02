@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtlis/static/css/main.abd64e84.css",
-    "main.js": "/TextUtlis/static/js/main.a3f87e7f.js",
-    "static/js/787.862ec6e9.chunk.js": "/TextUtlis/static/js/787.862ec6e9.chunk.js",
-    "index.html": "/TextUtlis/index.html",
-    "main.abd64e84.css.map": "/TextUtlis/static/css/main.abd64e84.css.map",
-    "main.a3f87e7f.js.map": "/TextUtlis/static/js/main.a3f87e7f.js.map",
-    "787.862ec6e9.chunk.js.map": "/TextUtlis/static/js/787.862ec6e9.chunk.js.map"
+    "main.css": "/NewsMonkey/static/css/main.abd64e84.css",
+    "main.js": "/NewsMonkey/static/js/main.850596d3.js",
+    "static/js/787.862ec6e9.chunk.js": "/NewsMonkey/static/js/787.862ec6e9.chunk.js",
+    "index.html": "/NewsMonkey/index.html",
+    "main.abd64e84.css.map": "/NewsMonkey/static/css/main.abd64e84.css.map",
+    "main.850596d3.js.map": "/NewsMonkey/static/js/main.850596d3.js.map",
+    "787.862ec6e9.chunk.js.map": "/NewsMonkey/static/js/787.862ec6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.a3f87e7f.js"
+    "static/js/main.850596d3.js"
   ]
 }
